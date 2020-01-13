@@ -1,4 +1,4 @@
-# Typography
+# Typography ✍️
 
 There are two main fonts used for the YoungTech Bergen brand.
 
